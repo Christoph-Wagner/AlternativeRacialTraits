@@ -1,0 +1,8 @@
+{
+  "Id": "AlternativeRacialTraits",
+  "DisplayName": "Alternative Racial Traits",
+  "Author": "CWagner",
+  "Version": "0.0.2",
+  "ManagerVersion": "0.15.0",
+  "EntryMethod": "AlternativeRacialTraits.Main.Load"
+}
